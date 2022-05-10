@@ -3,5 +3,7 @@ public class djkazshjhksa {
         System.out.println("cnm");
         System.out.println("ctm");
         System.out.println("qqq");
+        System.out.println("www");
+        System.out.println("iii");
     }
 }
