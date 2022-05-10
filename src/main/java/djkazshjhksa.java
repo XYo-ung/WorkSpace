@@ -14,5 +14,14 @@ public class djkazshjhksa {
         System.out.println("qqq");
         System.out.println("www");
         System.out.println("iii");
+        System.out.println("qqq");
+        System.out.println("www");
+        System.out.println("iii");
+        System.out.println("qqq");
+        System.out.println("www");
+        System.out.println("iii");
+        System.out.println("qqq");
+        System.out.println("www");
+        System.out.println("iii");
     }
 }
